@@ -1,0 +1,46 @@
+version: '3.7'
+services:
+        flaskapp:
+            image: recipeapp
+            container_name: myrecipeapp
+            build: ./flaskapp
+            ports:
+                - target: 5000
+                  published: 5000 
+            environment:
+                        - DB_URI=${DB_URI}             
+                        - SECRET_KEY=${SECRET_KEY}
+        service2:
+            image: recipeapp2
+            container_name: myrecipeapp2
+            build: ./service2
+            ports:
+                - target: 5000
+                 
+            environment:
+                         - DB_URI=${DB_URI}
+                         - SECRET_KEY=${SECRET_KEY}
+                        
+        service3:
+            image: recipeapp3
+            container_name: myrecipeapp3
+            build: ./service3
+            ports:
+                - target: 5000
+                  
+            environment:
+                         - DB_URI=${DB_URI} 
+                         - SECRET_KEY=${SECRET_KEY}
+                        
+                        
+        service4:
+           image: recipeapp4
+           container_name: myrecipeapp4
+           build: ./service4
+           ports:
+                - target: 5000
+             
+           environment:
+                         - DB_URI=${DB_URI}
+                         - SECRET_KEY=${SECRET_KEY}           
+                        

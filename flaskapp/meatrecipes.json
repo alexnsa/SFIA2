@@ -1,0 +1,41 @@
+[{
+		"Name": "Thai Green Chicken Curry",
+		"Image": "https://assets.epicurious.com/photos/59d3b2516a58986c6a4f46cc/6:4/w_620%2Ch_413/thai-green-chicken-curry-recipe-1003.jpg",
+		"Ingredients": [
+			"INGREDIENTS: 500g chicken thighs, 500g jasmine rice, 250g Thai green curry paste, 500ml coconut milk, 1 red pepper, 1 can of bamboo shoots"
+		],
+		"Method": [
+			"Fry the chicken thighs in Thai green paste, boil the coconut milk together with the thai green curry paste. Boil the rice and serve with the chicken and vegetables."
+		]
+	},
+	{
+		"Name": "Lentil, Apple, and Turkey Wrap",
+		"Image": "https://assets.epicurious.com/photos/551b0595e7851a541a30b23f/6:4/w_620%2Ch_413/239173_lentil-apple-and-turkey-wrap_6 x4.jpg",
+		"Ingredients": [
+			"INGREDIENTS: medium sized apple, 1 onion, 1 lemon, 500g red lentils, 500g turkey thighs, salt, pepper, paprika"
+		],
+		"Method": [
+			"Season and bake the turkey thighs for 1 hour, and boil the lentils for 30 minutes. Slice the apples, and put them together with the drained lentils, onion, turkey and lemon."
+		]
+	},
+	{
+		"Name": "Vietnamese Pork Meatball Bahn Mi Fried Rice",
+		"Image": "https://assets.epicurious.com/photos/5d7a5275a328680008bcabdb/6:4/w_620%2Ch_413/Fried%20Rice_66_Audrey%20Kelly.jpg",
+		"Ingredients": [
+			"INGREDIENTS: 500g Pork Meatballs, 500g rice, 1 onion, 1 garlic bulb, pak choi, salt, pepper, soy sauce"
+		],
+		"Method": [
+			"Fry the meatballs in your soy sauce, onions and garlic. Boil then fry the rice and serve together with the pak choi."
+		]
+	},
+	{
+		"Name": "Grilled Steak and Mixed Peppers",
+		"Image": "https://assets.epicurious.com/photos/5b64a0b14e722a4f20884a92/6:4/w_620%2Ch_413/Grilled-Steak-with-Grilled-Peppers-recipe-31072018.jpg",
+		"Ingredients": [
+			"INGREDIENTS: 500g of steak, mixed sweet peppers, chilli peppers, onions, black pepper, salt, olive oil"
+		],
+		"Method": [
+			"Season and grill the steaks, peppers and onions. Drizzle with oil and season with salt and pepper."
+		]
+	}
+]

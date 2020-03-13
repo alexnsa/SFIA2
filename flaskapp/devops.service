@@ -1,0 +1,14 @@
+[Unit]
+Description=Flask Application
+[Service]
+User=pythonadm
+WorkingDirectory=/opt/devops
+ExecStart=/bin/bash \
+	-c 'cd /opt/devops && \
+	source ./venv/bin/activate && \
+	python ./app.py'
+Environment=SECRET_KEY={{SECRET_KEY}}
+Environment=DB_URI=mysql+pymysql://{{MYSQL_USER}}:{{MYSQL_PASSWORD}}@{{MYSQL_HOST}}/{{MYSQL_DATABASE}}
+[Install]
+WantedBy=multi-user.target
+

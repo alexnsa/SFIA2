@@ -1,0 +1,41 @@
+[{
+		"Name": "Falafel Salad",
+		"Image": "https://assets.epicurious.com/photos/5cd59b9f58ef59e7ebd45813/1:1/w_1600%2Cc_limit/deconstructed-falafel-salad-recipe-051019.jpg",
+		"Ingredients": [
+			"INGREDIENTS: 300g Chickpeas, 100g kale, 1 cucumber, 200g tahini, sprig of mint, 1 lemon, salt , pepper, cumin, olive oil"
+		],
+		"Method": [
+			"Fry the chickpeas in the seasonings. Slice the mint, kale and cucumber. Toss together with olive oil, 1 lemon, salt and pepper."
+		]
+	},
+	{
+		"Name": "Jackfruit Tacos",
+		"Image": "https://assets.epicurious.com/photos/5ae38af020e37426cda191eb/6:4/w_620%2Ch_413/jackfruit-tacos-recipe-HC-042718.jpg",
+		"Ingredients": [
+			"INGREDIENTS: 1 can of jackfruit, 6 taco shells, 100g salsa, 1 onion, 1 bulb of garlic, salt, pepper, 200g guacamole, 1 lime, coriander"
+		],
+		"Method": [
+			"Drain and dry the jackfruit pieces. Fry together with onions and garlic. Serve guacamole, salsa, tacos and jackfruit separately and let people build the tacos as they wish."
+		]
+	},
+	{
+		"Name": "Miso-Tahini Squash Soup with Brown Rice",
+		"Image": "https://assets.epicurious.com/photos/5877a9262ee1d51f664035fb/6:4/w_620%2Ch_413/Miso-Tahini-Squash-Soup-With-Brown-Rice-recipe-12012017.jpg",
+		"Ingredients": [
+			"INGREDIENTS: 500g Brown Rice, 1 squash, 1 onion, 1 garlic bulb, 2 tbsp coconut oil, 5 tbsp miso paste, 100g tahini, 1 tbsp sesame oil, 2 tbsp sesame seeds, 1 piece of ginger"
+		],
+		"Method": [
+			"Cook the rice. Fry the ginger and garlic. Mix the tahini, miso paste, sesame oil and salt together, amd stir into the vegetables. Blend the vegetables, return to the pot and simmer for 13 minutes. Serve with sesame seeds and your rice. "
+		]
+	},
+	{
+		"Name": "Chickpea-Mushroom Burgers",
+		"Image": "https://assets.epicurious.com/photos/5e4c65cfd57b3b000872c652/6:4/w_620%2Ch_413/VeggieBurger_RECIPE_IG_021320_516_VOG_final.jpg",
+		"Ingredients": [
+			"INGREDIENTS: Burger buns, 1 iceberg lettuce, pickles, 1 can chickpeas, 200g mushrooms, 100g black quinoa, 1 onion, 1 pack cheese, garlic powder, paprika, salt, pepper, olive oil"
+		],
+		"Method": [
+			"Blend the chickpeas, seasoning, mushrooms and cooked quinoa together. Form into patties and bake for 10 minutes. Add cheese, onions, tomatoes, lettuce and dressings to your burger as you wish."
+		]
+	}
+]
