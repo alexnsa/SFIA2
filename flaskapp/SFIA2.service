@@ -2,9 +2,9 @@
 Description=Flask Application
 [Service]
 User=pythonadm
-WorkingDirectory=/opt/devops
+WorkingDirectory=/opt/SFIA2
 ExecStart=/bin/bash \
-	-c 'cd /opt/devops && \
+	-c 'cd /opt/SFIA2 && \
 	source ./venv/bin/activate && \
 	python ./app.py'
 Environment=SECRET_KEY={{SECRET_KEY}}
